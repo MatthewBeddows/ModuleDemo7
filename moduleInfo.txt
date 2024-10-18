@@ -1,4 +1,4 @@
-[Module] Cooling Fan
+[Module Info] Cooling Fan
 To maintain the PSU's temperature during operation, a cooling fan module is installed. This module contains high-efficiency, low-noise fans with heat sinks to dissipate excess heat from the internal components.
 
 [Requirements]
